@@ -27,9 +27,9 @@
 @import url('https://fonts.googleapis.com/css?family=Alex+Brush|Great+Vibes|PT+Sans+Narrow:400,700');
 @font-face
 {
-	font-family: 'Edward';
-	src: url(../font/edwardian_script_itc.ttf) format('truetype'),
-	url(../font/edwardian_script_itc.otf) format('opentype');
+	font-family: 'monospace';
+	src: url(../font/monospaceian_script_itc.ttf) format('truetype'),
+	url(../font/monospaceian_script_itc.otf) format('opentype');
 }
 
 /*********************************
@@ -275,7 +275,7 @@ section
 }
 .page_subtitle
 {
-	font-family: 'Edward', sans-serif;
+	font-family: 'monospace', sans-serif;
 	color: #b49383;
 	line-height: 0.75;
 }
